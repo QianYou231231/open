@@ -1,1 +1,3 @@
-图片爬取器
+
+print("welcome!")
+
